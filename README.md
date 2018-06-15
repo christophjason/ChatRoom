@@ -12,6 +12,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 or 
+# serve at localhost:8000
 php artisan serve
 
 # build for production with minification
