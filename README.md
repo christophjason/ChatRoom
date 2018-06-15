@@ -1,4 +1,4 @@
-# chatroom
+# The Chat Room
 A Laravel Vue.js Axios Pusher Chat Real-time Application
 
 ## Build Setup
