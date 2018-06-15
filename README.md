@@ -1,5 +1,5 @@
 # The Chat Room
-A Laravel Vue.js Axios Pusher Chat Real-time Application
+> A Laravel Vue.js Axios Pusher Chat Real-time Application
 
 ## Build Setup
 Before deploying, install node.js at nodejs.org
